@@ -18,8 +18,8 @@
     "proper-mobcap-modifier.mixins.json"
   ],
   "depends": {
-    "cloth-config2": ">=7.0.0",
-    "fabricloader": ">=0.14.6",
+    "cloth-config2": ">=15.0.140",
+    "fabricloader": ">=0.16.10",
     "minecraft": ">=1.20"
   }
 }
